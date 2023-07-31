@@ -1,0 +1,1 @@
+console.log("Node functionalities up and running")
